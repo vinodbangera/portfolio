@@ -818,9 +818,11 @@ span{
     font-size: 4.5rem;
   }
   .childTwo{
+    top: 23%;
     left: 25%;
   }
   .childOne{
+    top: 56%;
     left: 26%;
   }
   .name1{
