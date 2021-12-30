@@ -639,12 +639,12 @@ input[type=checkbox]:checked ~ .menu{
 }
 .childOne{
   position: absolute;
-  top: 58%;
+  top: 57%;
   left: 28%;
 }
 .childTwo{
   position: absolute;
-  top: 24%;
+  top: 23.5%;
   left: 28%;
 }
 .profile{
@@ -818,11 +818,9 @@ span{
     font-size: 4.5rem;
   }
   .childTwo{
-    top: 23%;
     left: 25%;
   }
   .childOne{
-    top: 56%;
     left: 26%;
   }
   .name1{
